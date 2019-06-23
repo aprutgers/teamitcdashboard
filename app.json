@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "Team In The Cloud Dashboard,
+  "description": "A barebones TeamITC PHP app that makes use of the Silex web framework",
+  "repository": "https://github.com/aprutgers/teamitcdashboard.git",
   "addons": []
 }
