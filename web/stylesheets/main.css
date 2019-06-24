@@ -22,10 +22,10 @@
   margin-top: -20px;
 }
 .jumbotron .lang-logo {
-  display: block;
+  xdisplay: block;
   background: #B01302;
-  border-radius: 50%;
-  overflow: hidden;
+  xborder-radius: 50%;
+  xoverflow: hidden;
   xxwidth: 100px;
   xxheight: 100px;
   margin: auto;
